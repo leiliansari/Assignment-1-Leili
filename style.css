@@ -44,6 +44,7 @@ h4, h3 {
 h4{
 	font-size: 22px;
 }
+
 .font-face {
 	font-family: 'Oswald', sans-serif;
 	src: url ('https://fonts.googleapis.com/css?family=Oswald');
@@ -107,6 +108,7 @@ li a:hover {
 
 .portf-box{
 	width: 33%;
+
 }
 #writing-portf {
 	float: left;
